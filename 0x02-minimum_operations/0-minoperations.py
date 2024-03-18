@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This module contains a function that retruns 
+This module contains a function that return
 the mimumm number of copy paste operations
 """
 
