@@ -1,1 +1,1 @@
-Create a script that optains data from the star wars api
+Create a script that obtains data from the star wars api
